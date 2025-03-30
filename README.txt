@@ -1,0 +1,1 @@
+use Setup21_ILI9488.h for the setup of the TFT_SPIe library!
